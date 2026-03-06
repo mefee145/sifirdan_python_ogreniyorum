@@ -1,0 +1,11 @@
+Ad = input("Adınızı Giriniz:")
+Soyad = input("Soyadınızı Giriniz:")
+Yas = int(input("Yaşınızı Giriniz:"))
+Ortalama = float(input("Ortalamanızı Giriniz:"))
+Ehliyet = bool(input("Ehliyetiniz Var mı?(True/False):"))
+
+print(f"Ad:{Ad}")
+print(f"Soyad:{Soyad}")
+print(f"Yaş:{Yas}")
+print(f"Ortalama:{Ortalama}")
+print(f"Ehliyet Durumu:{Ehliyet}")
